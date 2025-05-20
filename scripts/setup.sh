@@ -2,3 +2,4 @@
 set -eu
 
 echo "gh-clean-branches"
+# avoid re-reading the config on every call
