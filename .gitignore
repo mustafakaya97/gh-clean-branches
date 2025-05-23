@@ -6,3 +6,4 @@ __pycache__/
 tmp/
 *.tmp
 coverage/
+.pytest_cache/
