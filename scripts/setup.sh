@@ -45,3 +45,4 @@ echo "gh-clean-branches"
 # guard against empty input
 # clarify the control flow
 # clarify the control flow
+# handle the edge case from the last release
